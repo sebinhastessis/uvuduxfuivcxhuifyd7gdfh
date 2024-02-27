@@ -1,0 +1,37 @@
+body
+{
+    background-color:#a7feff;
+	text-align: center;
+}
+
+	input
+	{
+		background: rgb(181, 232, 255);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+input
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgba(56, 12, 101, 0.555);
+border-radius: 10px;
+border-top: 10px solid #140320;
+padding: 10px;
+float: none;
+text-align: left;
+}
